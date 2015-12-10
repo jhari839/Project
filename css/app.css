@@ -1,0 +1,59 @@
+#wrapper{
+	width:980px;
+    margin:0 auto;
+}
+
+.head{
+	width:780px;
+	height:100px;
+	background:#cfcfcf;	
+}
+label{
+	font-size:18px;	
+	padding:5px;
+}
+input{
+	padding:5px;
+	margin:10px;
+	background:#F0F0F0 ;
+}
+.left{
+	width:380px ;
+	background:white;
+	overflow:hidden;
+	float:left;
+	margin:5px;
+}
+#submit{
+	background:black;
+	color:white;
+	padding:10px;
+	margin-top:10px;
+}
+#table{
+	width:390px;
+	float:left;
+	background:white;
+	margin:5px;
+	border:2px solid grey;
+
+}
+.row{
+	padding:5px;
+	overflow:hidden;
+
+}
+.row:nth-child(even){
+	background:#F0F0F0 ;
+}
+.cell{
+	padding:5px;
+	float:left;
+
+}
+.clear{
+	clear:both;
+}
+ .thead{
+	 margin:10px;
+ }
